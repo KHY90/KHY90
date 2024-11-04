@@ -1,12 +1,12 @@
-## 사용한 언어 비율 </br></br>
+# 사용한 언어 비율 </br></br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KHY90)](https://github.com/anuraghazra/github-readme-stats)
 </br>
 
-## 깃허브 상태 </br></br>
+# 깃허브 상태 </br></br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KHY90)](https://github.com/anuraghazra/github-readme-stats)
 
-## 기술 스택
+# 기술 스택
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
