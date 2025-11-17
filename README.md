@@ -1,6 +1,6 @@
 ## LeetCode
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Kimhwayeon?theme=dark&font=Noto%20Sans%20KR)](https://leetcode.com/studyplan/top-interview-150/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/RiJSBAHFfT?theme=dark&font=Noto%20Sans%20KR)](https://leetcode.com/studyplan/top-interview-150/)
 
 ### 사용한 언어 비율
 
