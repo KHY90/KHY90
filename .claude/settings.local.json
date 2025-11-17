@@ -1,0 +1,8 @@
+{
+  "enabledMcpjsonServers": [
+    "executeautomation-playwright-server",
+    "context7",
+    "supabase"
+  ],
+  "enableAllProjectMcpServers": true
+}
