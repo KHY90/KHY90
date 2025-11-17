@@ -1,7 +1,3 @@
-## LeetCode
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/RiJSBAHFfT?theme=dark&font=Noto%20Sans%20KR)](https://leetcode.com/studyplan/top-interview-150/)
-
 ### 사용한 언어 비율
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KHY90)](https://github.com/anuraghazra/github-readme-stats)
@@ -9,6 +5,11 @@
 ### 깃허브 상태
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KHY90)](https://github.com/anuraghazra/github-readme-stats)
+
+## LeetCode
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/RiJSBAHFfT?theme=dark&font=Noto%20Sans%20KR)](https://leetcode.com/studyplan/top-interview-150/)
+
 
 ## 기술 스택
 
